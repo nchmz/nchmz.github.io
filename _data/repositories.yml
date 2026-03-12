@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nchmz
 
 repo_description_lines_max: 2
 
+repo_trophies:
+  enabled: false # <--- 改成 false
+# 在这里填入您想要展示的具体仓库（格式：用户名/仓库名）
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - nchmz/Electronic-circuit-experiments 
+  - nchmz/Template-for-AHU-report 
